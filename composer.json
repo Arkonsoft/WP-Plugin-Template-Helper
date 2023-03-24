@@ -1,0 +1,20 @@
+{
+    "name": "arkonsoft/wp-plugin-template-helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arkonsoft",
+            "email": "info@arkonsoft.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
